@@ -1,8 +1,8 @@
 // Definindo variáveis com diferentes tipos de dados
-let nome: string = "Thais";
-let idade: number = 19;
+let nome: string = "Carlos";
+let idade: number = 22;
 let ativo: boolean = false;
-let hobbies: string[] = ["Ler", "Desenhar", "Jogar"];
+let hobbies: string[] = ["Ler", "Programar", "Beber café"];
 let informacoesVariadas: any = "Inicialmente uma string";
 
 // Modificando a variável do tipo any para demonstrar sua flexibilidade

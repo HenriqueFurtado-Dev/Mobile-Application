@@ -12,9 +12,9 @@ function informarDetalhesLivro(livro: Livro): string {
 
 // Exemplo de uso da função
 const livro1: Livro = {
-    titulo: "O Diário de Anne Frank",
-    autor: "Anne Frank",
-    anoPublicacao: 1947,
+    titulo: "O incrível mundo de Wondla",
+    autor: "Tony DiTerlizz",
+    anoPublicacao: 2012,
 };
 
 const livro2: Livro = {
